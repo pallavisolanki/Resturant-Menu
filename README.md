@@ -1,7 +1,7 @@
 # Resturant-Menu
 
 # 📌 Overview
-# This is a responsive restaurant menu built using HTML, CSS (Bootstrap), and JavaScript. It allows users to browse menu items, filter them by category, and search for specific dishes.
+This is a responsive restaurant menu built using HTML, CSS (Bootstrap), and JavaScript. It allows users to browse menu items, filter them by category, and search for specific dishes.
 
 # 🎯 Features
 # ✅ Fully Responsive - Built with Bootstrap for a seamless experience on all devices.
